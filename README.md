@@ -6,4 +6,6 @@ I am currrently making a UEFI Based Bootloader from scratch with 2 others, here 
 
 I am the Owner of Guava OS: https://github.com/PedroElFrijol/GuavaOS
 
-I am the owner of Coffee OS: https://github.com/PedroElFrijol/CoffeeOS
+I am the Owner of Coffee OS: https://github.com/PedroElFrijol/CoffeeOS
+
+I am the Co-Owner of MilkOS: 
