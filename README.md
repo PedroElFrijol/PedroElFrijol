@@ -8,6 +8,6 @@ I am the Creator of Guava OS: https://github.com/PedroElFrijol/GuavaOS
 
 I am the Owner of Coffee OS: https://github.com/PedroElFrijol/CoffeeOS
 
-I am the Co-Owner of MilkOS: https://github.com/WeN33dGFs/MilkOS
+I am the Co-Owner of Milk OS: https://github.com/WeN33dGFs/MilkOS
 
-I am the Owner of PogOS: https://github.com/PedroElFrijol/PogOS
+I am the Owner of Pog OS: https://github.com/PedroElFrijol/PogOS
