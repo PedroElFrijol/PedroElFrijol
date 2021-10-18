@@ -6,10 +6,4 @@ I am currrently making a UEFI Based Bootloader from scratch with 2 others: https
 
 I am the Creator of Guava OS: https://github.com/PedroElFrijol/GuavaOS
 
-I am the Owner of Coffee OS: https://github.com/PedroElFrijol/CoffeeOS
-
-I am the Co-Owner of Milk OS: https://github.com/WeN33dGFs/MilkOS
-
-I am the Owner of Pog OS: https://github.com/PedroElFrijol/PogOS
-
 I made a java game engine: https://github.com/PedroElFrijol/Queso
