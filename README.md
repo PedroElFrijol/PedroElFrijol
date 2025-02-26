@@ -1,5 +1,4 @@
 # About me
-call me the awesome the way gaot
 
 [![Marcelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroElFrijol)](https://github.com/anuraghazra/github-readme-stats)
 
